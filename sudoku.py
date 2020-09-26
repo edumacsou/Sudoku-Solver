@@ -1,3 +1,5 @@
+#Author: Eduardo Maciel de Souza
+
 import numpy as np
 
 
