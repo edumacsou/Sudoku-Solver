@@ -2,25 +2,25 @@
 
 <details><summary><b> 1. What is this repository?</b></summary></br>
 
-A command-line application that solves sudoku using the brute force method an recursion.
+A command-line application that solves sudoku using the brute force method and recursion.
 
 ---
 </details>
 
 <details><summary><b> 2. What is a sudoku?</b></summary></br>
 
-Sudoku is a Japanese game, based on a table with 81 fields, called cells, separated in 9 minor 3x3 squares, which must be filled with numbers from 1 to 9 following the rule: 
-    A number can only appear once on each row, column and minor square.
-A perfect sudoku has only one solution, but a sudoku with more solutions can be solved too, but it demands a guess.
+Sudoku is a Japanese game, based on a table with 81 fields, called cells. These 81 cells are divided into 9 different 3x3 squares, which must be filled with numbers from 1 to 9 following the rule: 
+    A number can only appear once on each row, column and 3x3 square.
+A perfect sudoku has only one solution, but a sudoku with more solutions can be solved by making a guess.
 
 ---
 </details>
 
 <details><summary><b> 3. How to run the fractal tree?</b></summary></br>
 
-1. You will need the Python3 installed, that can be found [here](https://www.python.org/downloads).
+1. You will need the Python3 installed, it can be found [here](https://www.python.org/downloads).
 2. Download the file "sudoku.py" to a folder of your choice.
-3. Open your founder by terminal with this command (use the path to your folder):
+3. Open your folder using the terminal with this command (use the path to your folder):
     ```
     cd C:\Users\MyName\Documents\Myfolder\
     ```
@@ -36,10 +36,10 @@ A perfect sudoku has only one solution, but a sudoku with more solutions can be 
 
 <details><summary><b> 4. How to edit and use it?</b></summary></br>
 
-In line 6 is the definition of the puzzle, saved in the variable grid, in the form of a dimensional array.
+In line 6 there is the definition of the puzzle, saved in the variable grid, in the form of a dimensional array.
 The 0 values are blank cells of the puzzle that you want to solve.
 You can edit it to insert your own puzzle.
-After running the application it will ask if you want more solution, press the enter key to print another result (if exist another solutions)
+After running the application, it will ask you if you want more solutions. Press the enter key to print another result (if other solutions exist).
 
 ---
 </details>
