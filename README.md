@@ -2,7 +2,7 @@
 
 <details><summary><b> 1. What is this repository?</b></summary></br>
 
-A command-line program that solves sudoku using the brute force method an recursion.
+A command-line application that solves sudoku using the brute force method an recursion.
 
 ---
 </details>
@@ -24,7 +24,7 @@ A perfect sudoku has only one solution, but a sudoku with more solutions can be 
     ```
     cd C:\Users\MyName\Documents\Myfolder\
     ```
-4. Run the program with Python3:
+4. Run the application with Python3:
     ```
     python sudoku.py
     ```
@@ -39,7 +39,7 @@ A perfect sudoku has only one solution, but a sudoku with more solutions can be 
 In line 6 is the definition of the puzzle, saved in the variable grid, in the form of a dimensional array.
 The 0 values are blank cells of the puzzle that you want to solve.
 You can edit it to insert your own puzzle.
-After running the program it will ask if you want more solution, press the enter key to print another result (if exist another solutions)
+After running the application it will ask if you want more solution, press the enter key to print another result (if exist another solutions)
 
 ---
 </details>
