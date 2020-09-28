@@ -18,7 +18,7 @@ A perfect sudoku has only one solution, but a sudoku with more solutions can be 
 
 <details><summary><b> 3. How to run the fractal tree?</b></summary></br>
 
-1. You will need the Python3 installed, it can be found [here](https://www.python.org/downloads).
+1. You will need to have Python3 installed, it can be found [here](https://www.python.org/downloads).
 2. Download the file "sudoku.py" to a folder of your choice.
 3. Open your folder using the terminal with this command (use the path to your folder):
     ```
